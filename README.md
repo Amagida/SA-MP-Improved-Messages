@@ -2,4 +2,4 @@
 
 Functions:
 
-*IM::SendClientMessage(playerid, color, const message[], va_args<>);
+*IM::SendClientMessage(playerid, color, const message[], va_args<>);*
