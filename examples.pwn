@@ -1,5 +1,5 @@
 #include <a_samp>
-#include <messages.pwn>
+#include <messages>
 
 public OnGameModeInit()
 {
