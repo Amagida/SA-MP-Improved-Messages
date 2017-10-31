@@ -3,7 +3,7 @@
 
 public OnGameModeInit()
 {
-	IM::Print("GameMode", "GameMode Loaded Successfully. GameModeVersion: %d", 5);
+	IM::Print("GameModee", "GameMode Loaded Successfully. GameModeVersion: %d", 5);
 	return 1;
 }
 
