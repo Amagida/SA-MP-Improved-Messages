@@ -1,5 +1,5 @@
 /*
-	Improved Messages
+	Improved Messages using YSI
 	Developer: Amagida
 	Version: 0.1
 */	
